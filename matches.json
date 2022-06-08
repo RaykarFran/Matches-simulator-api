@@ -6,14 +6,14 @@
       "imagem":"TODO"
     },
     "mandante":{
-      "nome": "Brasil",
+      "nome": "Chicago Bulls",
       "forca": 5,
-      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image11-1024x732.png"
   },
     "visitante":{
-      "nome": "Argentina",
+      "nome": "Miami Heat",
       "forca": 5,
-      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem":"1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image7-1024x686.png"
     }
   }
 ]
