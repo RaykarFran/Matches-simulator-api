@@ -3,16 +3,16 @@
     "descricao":"PlayOff NBA",
     "local":{
       "nome":"Chicago",
-      "imagem":"TODO"
+      "imagem":"https://aposta10.com/app/webroot/files/editor/images/United%20Center(2).jpg"
     },
     "mandante":{
       "nome": "Chicago Bulls",
-      "forca": 5,
+      "forca": 99,
       "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image11-1024x732.png"
   },
     "visitante":{
       "nome": "Boston Celtics",
-      "forca": 5,
+      "forca": 105,
       "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image13-1024x576.png"
     }
   },
@@ -20,7 +20,7 @@
     "descricao":"Playoff NBA",
     "local":{
       "nome":"Houston",
-      "imagem":"TODO"
+      "imagem":"https://thespun.com/.image/t_share/MTgzMTI4MzI3NTUzNDkyMzIw/houston-rockets.jpg"
     },
     "mandante":{
       "nome": "Houston Rockets",
@@ -32,46 +32,12 @@
       "forca": 4,
       "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image7-1024x686.png"
     }
-  },
-  {
-    "descricao":"PlayOff NBA",
-    "local":{
-      "nome":"Salt Lake City",
-      "imagem":"TODO"
-    },
-    "mandante":{
-      "nome": "Utah Jazz",
-      "forca": 3,
-      "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image1-3-768x559.png"
-  },
-    "visitante":{
-      "nome": "Orlando Magic",
-      "forca": 4,
-      "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image15-768x558.png"
-    }
-  }
-  ,{
-    "descricao":"PlayOff NBA",
-    "local":{
-      "nome":"Arizona",
-      "imagem":"TODO"
-    },
-    "mandante":{
-      "nome": "Phoenix Suns",
-      "forca": 4,
-      "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image28-768x777.png"
-  },
-    "visitante":{
-      "nome": "Brooklyn Nets",
-      "forca": 5,
-      "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image9-768x768.png"
-    }
   }
   ,{
     "descricao":"PlayOff NBA",
     "local":{
       "nome":"Cleveland",
-      "imagem":"TODO"
+      "imagem":"https://www.palco23.com/files/0002017/004temas/Cleveland%20Cavaliers%20TAG.jpg"
     },
     "mandante":{
       "nome": "Cleveland Cavaliers",
@@ -84,4 +50,5 @@
       "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image22-1024x640.png"
     }
   }
+  
 ]
