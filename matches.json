@@ -7,12 +7,12 @@
     },
     "mandante":{
       "nome": "Chicago Bulls",
-      "forca": 99,
+      "forca": 300,
       "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image11-1024x732.png"
   },
     "visitante":{
       "nome": "Boston Celtics",
-      "forca": 105,
+      "forca":250,
       "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image13-1024x576.png"
     }
   },
@@ -24,12 +24,12 @@
     },
     "mandante":{
       "nome": "Houston Rockets",
-      "forca": 5,
+      "forca": 280,
       "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image6-1-1024x576.png"
   },
     "visitante":{
       "nome": "Miami Heat",
-      "forca": 4,
+      "forca": 295,
       "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image7-1024x686.png"
     }
   }
@@ -41,12 +41,12 @@
     },
     "mandante":{
       "nome": "Cleveland Cavaliers",
-      "forca": 5,
+      "forca": 320,
       "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image3-1-1024x1024.png"
   },
     "visitante":{
       "nome": "Golden State Warriors",
-      "forca": 5,
+      "forca": 380,
       "imagem":"https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image22-1024x640.png"
     }
   }
